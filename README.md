@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachelbyte
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Golang, C#, Python
+- 🌱 I’m currently learning Golang, C#, Ruby
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://www.linkedin.com/in/rachel-ajayi/
 
