@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rachelbyte
-- 👀 I’m interested in Cloud Computing and Cybersecurity.
+- 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently learning C# & React.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://www.linkedin.com/in/rachel-ajayi/
